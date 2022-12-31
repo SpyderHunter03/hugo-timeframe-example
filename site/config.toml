@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseurl = "http://timeframe.tristangoetz.me"
+baseurl = "https://timeframe.tristangoetz.me"
 title = "Timeframe"
 theme = "timeframe"
 # post pagination
